@@ -1,0 +1,10 @@
+.profile-img {
+	widows: 20em;
+	height: 20em;
+	
+/*	max-height: 10px;*/
+}
+
+.all {
+	align-items: center;
+}
